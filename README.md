@@ -1,54 +1,55 @@
-# 👋 Hi, I'm Suleman
+# 👋 Hello, I'm Suleman
 
-Welcome to my GitHub profile!  
-I'm a **Data Science enthusiast** with hands-on experience in data analysis, visualization, and insights generation.
+Welcome to my GitHub!  
+I'm a **Data Science enthusiast** with a keen eye for uncovering insights through data analysis, visualization, and storytelling.
 
 ---
 
 ## 📊 About Me
 
-- 🎓 Pursuing **Data Science**
-- 🐍 Skilled in **Python**, **SQL**, **Power BI**, and **Excel**
-- 📈 Interested in **Data Cleaning**, **EDA**, and **Dashboard Reporting**
-- 💡 Passionate about turning raw data into meaningful stories
-- 📫 Reach me at: [sulemanjm1604@gmail.com](mailto:sulemanjm1604@gmail.com)
+- 🎓 Currently pursuing a career in **Data Science**
+- 💻 Proficient in **Python**, **SQL**, **Power BI**, and **Excel**
+- 📌 Specialized in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Interactive Dashboard Development**
+- 🧠 Passionate about transforming complex datasets into actionable business insights
+- 📬 Contact: [sulemanjm1604@gmail.com](mailto:sulemanjm1604@gmail.com)
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/suleman-mulani1608)
+- 💼 [LinkedIn: Suleman Mulani](https://www.linkedin.com/in/suleman-mulani1608)
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Language/Tool | Proficiency |
-|---------------|-------------|
-| 🐍 Python | ★★★★☆ |
-| 🗃️ SQL | ★★★★☆ |
-| 📊 Power BI | ★★★★☆ |
-| 📑 MS Excel | ★★★★★ |
-| 📈 Pandas & Matplotlib | ★★★★☆ |
-| 📉 Seaborn | ★★★★☆ |
+| Tool / Language        | Proficiency |
+|------------------------|-------------|
+| 🐍 Python              | ★★★★☆        |
+| 🗃️ SQL                | ★★★★☆        |
+| 📊 Power BI            | ★★★★☆        |
+| 📈 Pandas & Matplotlib | ★★★★☆        |
+| 📉 Seaborn             | ★★★★☆        |
+| 📑 MS Excel            | ★★★★★        |
 
 ---
 
-## 📁 Sample Projects
+## 📁 Featured Projects
 
-### 📌 Exploratory Data Analysis - Titanic Dataset
-> Cleaned and analyzed Titanic dataset using Pandas, Seaborn and Matplotlib.
+### 🚢 **Exploratory Data Analysis – Titanic Dataset**
+Conducted comprehensive data cleaning and EDA using Pandas, Seaborn, and Matplotlib to extract survival patterns and passenger insights.
 
-### 📌 Population Age & Gender Visualization
-> Created a bar chart/histogram to represent demographic distribution using Python.
+### 👥 **Demographic Visualization – Age & Gender**
+Visualized population structure through bar charts and histograms, highlighting gender-wise and age-wise distributions.
 
-### 📌 Sales Dashboard in Power BI
-> Interactive report to track KPIs like revenue, profit margin, and customer behavior.
+### 💼 **Power BI Sales Dashboard**
+Designed a dynamic dashboard to monitor key performance indicators like revenue, profit margin, and customer trends for business insights.
 
-#### 🖼️ Power BI Dashboard Preview
+#### 🖼️ Dashboard Preview
 
 ![Power BI Dashboard](images/754e0e0f-9599-4b7d-9aa7-367152c9c9ca.jpg)
 
 ---
 
-Thanks for visiting! Feel free to explore my repositories and connect with me.
+Thank you for stopping by!  
+Feel free to explore my repositories, drop a ⭐ if you find something interesting, and let’s connect!
